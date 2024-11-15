@@ -1,12 +1,10 @@
-# AI Primitives
-
-## 彡 Database
+# 彡 Database
 
 
-## 入 Functions
+# 入 Functions
 
 
-## 巛 Workflows
+# 巛 Workflows
 
 <!--
 
