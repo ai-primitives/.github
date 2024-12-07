@@ -16,13 +16,13 @@
 
 ## Utilities
 
-- [ ] [ai-props](./packages/ai-props) - use AI structured object generation to wrap any React component, transforming any input into a strongly-typed props
-- [ ] [db.mdx](./packages/db.mdx) - leverage MDX to unify structured data, unstructured content, and code execution into a single local or remote file format
+- [ ] [ai-props](./packages/ai-props) - use AI object generation to wrap any React component, transforming any input into consistent strongly-typed props
+- [ ] [db.mdx](./packages/db.mdx) - leverage MDX to unify structured data, unstructured content, and code execution into a local or remote files
 - [ ] [mdx.do](./packages/mdx.do) - MDX-as-a-service with API, CLI, and editor UI to create and manage structured data, unstructured content, and code
 - [ ] [ai.mdx](./packages/ai.mdx) - use local or remote MDX files as a way to manage your AI Database, AI Functions, AI Workflows, and AI Agents
 - [ ] [workers.mdx](./packages/workers.mdx) - simplify Cloudflare Workers & Workers for Platforms development with MDX for config, code, and JSX rendering
-- [ ] [workers.do](./packages/workers.do) - MDX-based Platform with API, CLI, and editor UI to develop and deploy APIs and Apps on Cloudflare Workers for Platforms
-- [ ] [payload.mdx](./packages/payload.mdx) - Rapidly create Payload applications using local or remote MDX files for configuration, code, and custom UI components
+- [ ] [workers.do](./packages/workers.do) - MDX-based Platform with API, CLI, and editor UI to develop and deploy APIs/Apps on Cloudflare Workers for Platforms
+- [ ] [payload.mdx](./packages/payload.mdx) - Rapidly create Payload applications using local or remote MDX for configuration, code, and custom UI components
 - [ ] [payload.do](./packages/payload.do) - MDX-based Platform with API, CLI, and editor UI to develop and deploy headless CMSs and web apps with Payload
 
 
