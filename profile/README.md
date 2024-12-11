@@ -14,6 +14,9 @@
 - [ ] [workflows.do](https://github.com/ai-primitives/core/tree/main/packages/workflows.do) - Compose AI and code-based functions into workflows with durable execution and multi-variant eval testing
 - [ ] [agents.do](https://github.com/ai-primitives/core/tree/main/packages/agents.do) - Create, deploy, observe, experiment, monitor, and manage autonomous AI Agents via CLI, API, and Editor UI
 
+
+<!--
+
 ## Utilities
 
 - [ ] [ai-props](https://github.com/ai-primitives/core/tree/main/packages/ai-props) - use AI object generation to wrap any React component, transforming any input into consistent strongly-typed props
@@ -26,9 +29,6 @@
 - [ ] [payload.do](https://github.com/ai-primitives/core/tree/main/packages/payload.do) - MDX-based Platform with API, CLI, and UI to develop and deploy headless CMSs and web apps with Payload
 
 
-
-
-<!--
 
 
 # 彡 Database
