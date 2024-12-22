@@ -1,7 +1,7 @@
 # AI Primitives
 
-- [ ] [mdxld](/ai-primitives/mdxld) - MDX-LD (Markdown + Linked Data + Code + Components) ([npm](https://npmjs.com/mdxld), [mdxld.org](https://mdxld.org)) 
-- [ ] [mdxe](/ai-primitives/mdxe) - Zero config executable MDX CLI ([npm](https://npmjs.com/mdxe), [mdxe.js.org](https://mdxe.js.org)) 
+- [ ] [mdxld](https://github.com/ai-primitives/mdxld) - MDX-LD (Markdown + Linked Data + Code + Components) ([npm](https://npmjs.com/mdxld), [mdxld.org](https://mdxld.org)) 
+- [ ] [mdxe](https://github.com/ai-primitives/mdxe) - Zero config executable MDX CLI ([npm](https://npmjs.com/mdxe), [mdxe.js.org](https://mdxe.js.org)) 
 
 
 <!--
