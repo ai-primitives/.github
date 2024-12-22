@@ -1,5 +1,9 @@
 # AI Primitives
 
+- [ ] [mdxe](https://npmjs.com/mdxe)([mdxe.js.org](https://mdxe.js.org)) 
+
+
+<!--
 ## Abstractions
 
 - [ ] [ai-database](https://github.com/ai-primitives/core/tree/main/packages/ai-database) - DB abstraction with hybrid vector search for synthetic data, AI tool-calling and RAG applications
@@ -15,7 +19,6 @@
 - [ ] [agents.do](https://github.com/ai-primitives/core/tree/main/packages/agents.do) - Create, deploy, observe, experiment, monitor, and manage autonomous AI Agents via CLI, API, and Editor UI
 
 
-<!--
 
 ## Utilities
 
