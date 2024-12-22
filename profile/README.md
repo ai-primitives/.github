@@ -1,6 +1,6 @@
 # AI Primitives
 
-- [ ] [mdxe](https://npmjs.com/mdxe)([mdxe.js.org](https://mdxe.js.org)) 
+- [ ] [mdxe](./mdxe)([npm](https://npmjs.com/mdxe), [mdxe.js.org](https://mdxe.js.org)) 
 
 
 <!--
