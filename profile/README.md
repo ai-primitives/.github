@@ -1,5 +1,17 @@
 # AI Primitives
 
+- [ ] agents.do
+- [ ] workflows.do
+- [ ] functions.do
+
+## Libraries
+
+- [ ] ai-workflows
+- [ ] ai-functions
+
+
+## MDX Linked Data
+
 - [ ] [mdxld](https://github.com/ai-primitives/mdxld) - MDX-LD (Markdown + YAML Linked Data Frontmatter + JS/TS Code + JSX Components) ([github](https://github.com/ai-primitives/mdxld), [npm](https://npmjs.com/mdxld), [mdxld.org](https://mdxld.org)) 
 - [ ] [mdxe](https://github.com/ai-primitives/mdxe) - Zero config executable MDX CLI ([github](https://github.com/ai-primitives/mdxe), [npm](https://npmjs.com/mdxe), [mdxe.js.org](https://mdxe.js.org)) 
 
